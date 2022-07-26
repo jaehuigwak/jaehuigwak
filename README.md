@@ -19,6 +19,5 @@ Here are some ideas to get you started:
 
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=A8B9CC)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=00599C)
-![C#](https://img.shields.io/badge/C#-00599C.svg?&style=for-the-badge&logo=C#&logoColor=00599C)
 ![Unity](https://img.shields.io/badge/Unity-FFFFFF.svg?&style=for-the-badge&logo=Unity&logoColor=FFFFFF)
 ![PremierePro](https://img.shields.io/badge/PremierePro-9999FF.svg?&style=for-the-badge&logo=PremierePro&logoColor=9999FF)

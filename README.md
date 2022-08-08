@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 ![PremierePro](https://img.shields.io/badge/PremierePro-9999FF.svg?&style=for-the-badge&logo=PremierePro&logoColor=9999FF)
 
 ## Contact
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jaehui0922@gmail.com)](mailto:jaehui0922@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jaehuigwak504=@gmail.com)](mailto:jaehuigwak504@gmail.com)
 
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCT5ZBuTpxN3TUqcaqe1-GJg)](https://www.youtube.com/channel/UCT5ZBuTpxN3TUqcaqe1-GJg)

@@ -22,3 +22,8 @@ Here are some ideas to get you started:
 ![Unity](https://img.shields.io/badge/Unity-FFFFFF.svg?&style=for-the-badge&logo=Unity&logoColor=FFFFFF)
 ![Unreal](https://img.shields.io/badge/Unreal-0E1128.svg?&style=for-the-badge&logo=Unreal&logoColor=0E1128)
 ![PremierePro](https://img.shields.io/badge/PremierePro-9999FF.svg?&style=for-the-badge&logo=PremierePro&logoColor=9999FF)
+
+## Contact
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jaehui0922@gmail.com)](mailto:jaehui0922@gmail.com)
+
+[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCT5ZBuTpxN3TUqcaqe1-GJg)](https://www.youtube.com/channel/UCT5ZBuTpxN3TUqcaqe1-GJg)
